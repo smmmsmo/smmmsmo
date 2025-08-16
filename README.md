@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Notion,CCNA and bunch of other unnecessary stuffs**
 
-- 👨‍💻 All of my projects are available at [parttimedev.me](parttimedev.me)
-
-- 📫 How to reach me **[parttimedev.me](parttimedev.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
