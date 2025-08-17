@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://github.com/smmmsmo.png" alt="smmmsmo" width="180" height="180"/>
   
   ### SM Mostofa Morshed Sayeem
   
