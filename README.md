@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/smmmsmo.png" alt="smmmsmo" width="180" height="180" style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 5px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);"/>
+  <img src="https://github.com/smmmsmo.png" alt="smmmsmo" width="180" height="180"/>
   
   ### SM Mostofa Morshed Sayeem
   
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=smmmsmo&icon=2&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=smmmsmo&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
