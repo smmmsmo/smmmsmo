@@ -15,10 +15,10 @@
 <div align="center">
 
 <p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="border-radius: 12px;" />
+<a href="https://github.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://facebook.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
@@ -62,12 +62,12 @@
 
 ### 📚 Currently Learning
 <p>
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 12px;" />
-<img src="https://img.shields.io/badge/Japanese-FF6B6B?style=for-the-badge&logo=duolingo&logoColor=white" style="border-radius: 12px;" />
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Japanese-FF6B6B?style=flat-square&logo=duolingo&logoColor=white" />
 </p>
 
 </div>
@@ -77,7 +77,8 @@
 ## 📊 GitHub Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smmmsmo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=smmmsmo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&card_width=495" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=smmmsmo&theme=radical&hide_border=false&card_width=495" height="200" alt="streak stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smmmsmo&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
