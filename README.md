@@ -28,17 +28,15 @@
 ## 💻 Tech Stack & Skills:
 
 <div align="center">
-
-
-**Languages:** 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
-
-
-**Development Tools:** 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postgres&theme=dark" />
-
-**Platforms:** 
-<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+  <br><br>
+  <h4>Development Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postgres&theme=dark" />
+  <br><br>
+  <h4>Platforms</h4>
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
+</div>
 
 
 
