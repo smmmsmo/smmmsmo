@@ -1,66 +1,62 @@
-
-<div align="center">
-  <img height="200" src="https://github.com/smmmsmo/Assets/blob/main/GIF/Profile.gif?raw=true" alt="Demo GIF" />
-  
-  ### SM Mostofa Morshed Sayeem
-  
-  <p align="center">
-    <em>Welcome to my profile. Thank you for visiting.</em>
-  </p>
-</div>
-
----
-
-## 🌐 Connect with Me:
 <div align="center">
 
-<p>
-<a href="https://github.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://facebook.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/smmmsmo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-</p>
+<img height="180" src="GIF/Profile.gif" alt="Profile GIF" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=99999&color=6E40C9&center=true&vCenter=true&width=700&lines=SM+Mostofa+Morshed+Sayeem)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=smmmsmo&style=flat-square&color=6E40C9&label=Profile+Views)](https://github.com/smmmsmo)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=100&text=SMMMS&fontSize=80&fontAlignY=80" />
+
+```
+███████╗███╗   ███╗███╗   ███╗███╗   ███╗███████╗
+██╔════╝████╗ ████║████╗ ████║████╗ ████║██╔════╝
+███████╗██╔████╔██║██╔████╔██║██╔████╔██║███████╗
+╚════██║██║╚██╔╝██║██║╚██╔╝██║██║╚██╔╝██║╚════██║
+███████║██║ ╚═╝ ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████║
+╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" />
 
 </div>
 
----
-
-## 💻 Tech Stack & Skills:
+<br/>
 
 <div align="center">
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
-  <br><br>
-  <h4>Development Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postgres&theme=dark" />
-  <br><br>
-  <h4>Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6E40C9&height=2" width="100%" />
 
----
-
-### 📚 Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Japanese-FF6B6B?style=flat-square&logo=duolingo&logoColor=white" />
-</div>
-
-</div>
-
----
-
+## 🖥️ Daily Drivers
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=smmmsmo&color=blueviolet&style=flat-square&label=Profile+Views)
+<a href="#"><img src="https://cdn.simpleicons.org/apple/888888" width="36" height="36" /></a>&nbsp;&nbsp;<a href="#"><img src="https://cdn.simpleicons.org/archlinux/1793D1" width="36" height="36" /></a>&nbsp;&nbsp;<a href="#"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="36" height="36" /></a>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6E40C9&height=2" width="100%" />
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://facebook.com/smmmsmo"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" /></a>&nbsp;&nbsp;<a href="https://x.com/smmmsmo"><img src="https://cdn.simpleicons.org/x/808080" width="36" height="36" /></a>&nbsp;&nbsp;<a href="mailto:mostofamorshed@outlook.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" /></a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" width="100%" />
+</div>
