@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="180" src="GIF/Profile.gif" alt="Profile GIF" />
+<img height="240" src="GIF/Profile.gif" alt="Profile GIF" />
 
 <br/>
 
@@ -11,8 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=smmmsmo&style=flat-square&color=6E40C9&label=Profile+Views)](https://github.com/smmmsmo)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=100&text=SMMMS&fontSize=80&fontAlignY=80" />
 
 ```
 ███████╗███╗   ███╗███╗   ███╗███╗   ███╗███████╗
